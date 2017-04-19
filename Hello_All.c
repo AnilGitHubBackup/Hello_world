@@ -6,6 +6,5 @@ main()
   Printf("Hello Sudeep\n");.
   Printf("Hi Anil\n");
 	Printf("Hi Honeywell\n");
-
   return 0;
 }
